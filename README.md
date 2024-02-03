@@ -2,7 +2,7 @@
  a private modpack for the daxtercraft server
 
 # How to download
-click on the edition you need (Nvidia or standard) then click the download button (Easy ik)
+Download latest in releases.
 
 # How to install
 install Prism/Atlauncher and import the instances (Easy again ik)
