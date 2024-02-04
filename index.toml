@@ -185,8 +185,23 @@ hash = "16fbd1c84372cc9a11b82f4576769ec1373689bdf05660a35f55f26d1b032d72"
 metafile = true
 
 [[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "f0922166ea1c33a110bf80317a49df2e8a7e1746fe58979956a257652c886ff8"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "ed6a25ed70497e1ef1e7800bf0e55419f62bb455e5a3cfe97eccdc9a38523bce"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2d9189747a126e19a4774fb660b52c347c71e8ba5eadfd77dc9d3cbbc0ec078d"
 metafile = true
 
 [[files]]
