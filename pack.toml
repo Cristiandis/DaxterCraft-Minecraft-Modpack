@@ -1,0 +1,13 @@
+name = "DaxterCraft-Minecraft-Modpack"
+author = "Cris83388"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b18d4c074cdf6aaaeefa324ba529f2387c3d223740a88aa2fea93c54b234271b"
+
+[versions]
+fabric = "0.15.6"
+minecraft = "1.20.1"
