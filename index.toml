@@ -15,6 +15,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "db42581c6dd8b2e518f999500b68397f595344e78f216ff174ac37aa1ce6598e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
@@ -80,6 +85,11 @@ hash = "c2e938d1bdd1136e04b8be8c1378e2e33956ac23aa91d3a76003db6f2f75cbd1"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
@@ -87,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-simple-animated-guns.pw.toml"
+hash = "b7dd0d855dbf08d4fdd1f73a20ba0eb2ab7d4c9cf4939055fe9ea2587c7b4aad"
 metafile = true
 
 [[files]]
