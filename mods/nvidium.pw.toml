@@ -1,16 +1,17 @@
 name = "Nvidium"
-filename = "nvidium-0.2.6-beta.jar"
+filename = "nvidium-0.2.0-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/J2fuM58R/nvidium-0.2.6-beta.jar"
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/JTkUZGqn/nvidium-0.2.0-beta.jar"
 hash-format = "sha1"
-hash = "ce0c8504cfc397b53227119230e3ae5fdf851d42"
+hash = "3e368e3c29fea4bf385b11fb7feb2b5c5568e3e0"
 
 [update]
 [update.modrinth]
 mod-id = "SfMw2IZN"
-version = "J2fuM58R"
+version = "JTkUZGqn"
 
 [option]
 optional = true
+description = "This mod improves performance on Nvidia gpu's, if you have one enable this"
