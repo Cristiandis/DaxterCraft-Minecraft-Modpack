@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "2635509fd6e443ba00637c8828e621dc879e57aec33bbe0a118c85a185999de9"
+hash = "6ac4cd38c30fa358b08bc6858c949657280bf83ddb977fa2380e9292711b067d"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -97,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "23dc59b0fa9ab5be039ed2c23a04de5a4c7b03c157312d353a0df0010dc61211"
 metafile = true
 
 [[files]]
