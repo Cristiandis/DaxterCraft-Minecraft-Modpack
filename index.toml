@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -155,6 +155,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "c08d92385cbe0881d49063e812dcdbb7e905f297e43f08dad58d8430f27d3c79"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
 metafile = true
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/simple-uncrafting-table.pw.toml"
+hash = "53567c5d6a56694d91d42d6fa7fdd9a824be23c0eef0f21393cd3cbe4007b18d"
 metafile = true
 
 [[files]]
