@@ -40,6 +40,11 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
+file = "mods/coach_gaming.pw.toml"
+hash = "575b9428121ce6737190503c1743f37c1af9eed981f72604f22844b24e72566e"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true

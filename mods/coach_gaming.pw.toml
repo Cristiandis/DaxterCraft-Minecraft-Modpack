@@ -1,0 +1,10 @@
+name = "Coach Gaming"
+filename = "Coach Gaming.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Cristiandis/Keyern-s-silly-texturepack-and-mod/releases/download/help/Coach.Gaming.zip"
+
+[option]
+optional = true
+description = "Silly music pack that keyern made"
