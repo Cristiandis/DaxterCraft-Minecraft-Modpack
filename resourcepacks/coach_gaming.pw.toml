@@ -1,0 +1,11 @@
+name = "Coach Gaming"
+filename = "Coach.Gaming.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/Coach.Gaming.zip"
+
+[option]
+optional = true
+
+

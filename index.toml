@@ -249,6 +249,6 @@ file = "packwizignore.txt"
 hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "befc44d9a22568f6eeb6fae72cbac3bfa3f36f5b4a429f8d20d5b048eb684986"
+file = "resourcepacks/coach_gaming.pw.toml"
+hash = "070268e5b4b980b9e46cc2f4cd6c7144ac60f503bdc1728e442a2bbab217a8a6"
 metafile = true
