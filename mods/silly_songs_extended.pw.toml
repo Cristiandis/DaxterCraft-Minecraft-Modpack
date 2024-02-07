@@ -3,8 +3,8 @@ filename = "silly_songs_extended.jar"
 side = "client"
 
 [download]
-url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/silly_songs_extended-1.0.0.jar"
+url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/silly_songs_extended-1.0.1.jar"
 hash-format = "sha256"
-hash = "ce3e211be2bf84d45f8ad8c301418f6e04a921b785f00624091fae617d2939b7"
+hash = "1fe6555b96b9e04e9576e7283146614ec0ebe1ea1d90bb30ac855f33f678254d"
 
 
