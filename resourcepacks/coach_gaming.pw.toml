@@ -5,9 +5,9 @@ side = "client"
 [download]
 url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/Coach.Gaming.zip"
 hash-format = "sha256"
-hash = "273d573ac392a6d29fc30ccce41d3106a033e3be8ad3c47b397b31089b672c48"
+hash = "5ab74cf89964e42d1e62ca1299bb1f99d8796df3ba0c0dbac36118b21d719314"
 
 [option]
 optional = true
-
+description = "testing"
 
