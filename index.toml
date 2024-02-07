@@ -249,6 +249,6 @@ file = "packwizignore.txt"
 hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
 
 [[files]]
-file = "resourcepacks/coach_gaming.pw.toml"
-hash = "794279606a7d93d7ed5f92e428e2177dceaa4e255d96cc915570ec673ccfad47"
+file = "resourcepacks/silly_songs.pw.toml"
+hash = "83cdf69b9b350d14c5a4843e8db228f81dd2e4c4d5f381a45c2757ec88fb6a9c"
 metafile = true
