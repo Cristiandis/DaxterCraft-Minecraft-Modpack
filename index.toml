@@ -195,6 +195,11 @@ hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
 metafile = true
 
 [[files]]
+file = "mods/silly_songs_extended.pw.toml"
+hash = "7fb981940b14e045d766755fb91ed21ffe66a36f5dcea268f620ff37188427cb"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
