@@ -9,5 +9,5 @@ hash = "5ab74cf89964e42d1e62ca1299bb1f99d8796df3ba0c0dbac36118b21d719314"
 
 [option]
 optional = true
-description = "testing"
+description = "Replaces default minecraft disks with silly music - made by keyern"
 
