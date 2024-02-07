@@ -40,11 +40,6 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
-file = "mods/coach_gaming.pw.toml"
-hash = "575b9428121ce6737190503c1743f37c1af9eed981f72604f22844b24e72566e"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
@@ -252,3 +247,8 @@ metafile = true
 [[files]]
 file = "packwizignore.txt"
 hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "befc44d9a22568f6eeb6fae72cbac3bfa3f36f5b4a429f8d20d5b048eb684986"
+metafile = true
