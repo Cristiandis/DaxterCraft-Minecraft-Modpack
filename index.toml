@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+hash = "bc8ea1df483f9efe256dc6c829b179a4e5f662aa2e29e646c28c11c0bfc05b7e"
 metafile = true
 
 [[files]]
@@ -37,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+metafile = true
+
+[[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "8e8ef2577f00e74f5c2f1f62ccae6f46975f80b4fa98b8bd107d7176b77c96bd"
 metafile = true
 
 [[files]]
@@ -96,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "ec0472640e5141af83362d563fe93e70b57ed4644d3449792467af1253097988"
 metafile = true
 
 [[files]]
