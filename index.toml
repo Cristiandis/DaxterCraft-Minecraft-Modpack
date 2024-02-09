@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ec0472640e5141af83362d563fe93e70b57ed4644d3449792467af1253097988"
+hash = "9fc779a408b93257c385321012d11063df38771a6c618bf2ff9fc1dc5b7fdb2e"
 metafile = true
 
 [[files]]
@@ -122,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -192,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/nvidium.pw.toml"
 hash = "6130aff71c3d90c2685d45d305b33f08c8dde7721d7aa829dc285cd6a59c6de0"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
 metafile = true
 
 [[files]]
