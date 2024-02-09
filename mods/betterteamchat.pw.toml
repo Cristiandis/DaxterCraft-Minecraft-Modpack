@@ -1,0 +1,13 @@
+name = "BetterTeamChat"
+filename = "BetterTeamChat-1.1.0-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Ll8RHPS/versions/1twH59et/BetterTeamChat-1.1.0-1.20.jar"
+hash-format = "sha1"
+hash = "4c7b0baa1404f3768d65879ad65130b36a1bccb4"
+
+[update]
+[update.modrinth]
+mod-id = "2Ll8RHPS"
+version = "1twH59et"

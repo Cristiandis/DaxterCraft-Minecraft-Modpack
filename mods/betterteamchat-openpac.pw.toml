@@ -1,0 +1,13 @@
+name = "BetterTeamChat-OpenPaC"
+filename = "BetterTeamChat-OpenPaC-1.0.0-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U2SYsmz5/versions/bweVdh4H/BetterTeamChat-OpenPaC-1.0.0-1.20.jar"
+hash-format = "sha1"
+hash = "fb5f01033fc6796b6eb9a7981f6f3b7dfc89867d"
+
+[update]
+[update.modrinth]
+mod-id = "U2SYsmz5"
+version = "bweVdh4H"

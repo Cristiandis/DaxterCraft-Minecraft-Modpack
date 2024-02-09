@@ -25,6 +25,16 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/betterteamchat-openpac.pw.toml"
+hash = "d53d16e71c1999c989ba34ef13b4e6ae78705013dc66fb823f9d8796a7412815"
+metafile = true
+
+[[files]]
+file = "mods/betterteamchat.pw.toml"
+hash = "d6fc713319c17390b104f49029283a30ce91806c99cb809490d7e4cda2432ca3"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
