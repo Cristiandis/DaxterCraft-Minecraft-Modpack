@@ -5,6 +5,11 @@ file = "README.md"
 hash = "6ac4cd38c30fa358b08bc6858c949657280bf83ddb977fa2380e9292711b067d"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "aa8628d7e66725c39db2d56370ceb15f031075176e902b44c85dd395c4dec168"
 metafile = true
@@ -195,6 +200,11 @@ hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
+metafile = true
+
+[[files]]
+file = "mods/quarry-reborn.pw.toml"
+hash = "20521e393f63698e5606091f61e936cb83b73e69b03f5f55a4714aafe43fbd0e"
 metafile = true
 
 [[files]]
