@@ -55,6 +55,11 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad-fabric.pw.toml"
+hash = "108b39ff08a1e56f78ed14817241ad6680c810dc6ca70550dbf53b4c5ce2d56d"
+metafile = true
+
+[[files]]
 file = "mods/create-chunkloading.pw.toml"
 hash = "8e8ef2577f00e74f5c2f1f62ccae6f46975f80b4fa98b8bd107d7176b77c96bd"
 metafile = true
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/silly_songs_extended.pw.toml"
-hash = "b51574517af22064e35cc4dbfb95aeda328d598982a21f0e7b6108ced6726278"
+hash = "b94bf6e171370d57846a1c011d28a51cdf4a9ab5eb4bf33bec34c2c03205e237"
 metafile = true
 
 [[files]]
