@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/silly_songs_extended.pw.toml"
-hash = "b94bf6e171370d57846a1c011d28a51cdf4a9ab5eb4bf33bec34c2c03205e237"
+hash = "d00a50ddef57cc86c920de1211ba95052167a2c92c353ca218317e7bc21917a3"
 metafile = true
 
 [[files]]
