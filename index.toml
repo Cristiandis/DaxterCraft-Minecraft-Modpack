@@ -30,6 +30,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/better-jukeboxes.pw.toml"
+hash = "bb18fe02bdf4a0ae39709eefc5af8c8d768aadadbd05145d43f608fffc74c052"
+metafile = true
+
+[[files]]
 file = "mods/betterteamchat-openpac.pw.toml"
 hash = "d53d16e71c1999c989ba34ef13b4e6ae78705013dc66fb823f9d8796a7412815"
 metafile = true
@@ -121,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fc779a408b93257c385321012d11063df38771a6c618bf2ff9fc1dc5b7fdb2e"
+hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
 metafile = true
 
 [[files]]
@@ -190,6 +195,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
 metafile = true
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "4fb4a37363e3df0433ad359675fcaede7eb343024cb47b8b02ebde9254a68236"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Better Jukeboxes"
+filename = "betterjukebox-1.20-1.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "613d9f14f456c7fd1c38c74027802e37cc4e919c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4896658
+project-id = 891937
