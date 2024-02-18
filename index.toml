@@ -125,8 +125,13 @@ hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
 metafile = true
 
 [[files]]
+file = "mods/extractinator.pw.toml"
+hash = "9fb97a2f4aaa7f6fda14c65a9dbbebe6a03f9fb54e7cfc46e2518a405e170909"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
@@ -252,6 +257,16 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]

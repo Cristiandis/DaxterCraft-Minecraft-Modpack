@@ -1,0 +1,13 @@
+name = "Extractinator"
+filename = "extractinator-fabric-1.20.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2EPioYNN/versions/9b8uRLAV/extractinator-fabric-1.20.1-2.3.0.jar"
+hash-format = "sha1"
+hash = "f80e11570ec8d65edf331f066f6ccd8d86303109"
+
+[update]
+[update.modrinth]
+mod-id = "2EPioYNN"
+version = "9b8uRLAV"
