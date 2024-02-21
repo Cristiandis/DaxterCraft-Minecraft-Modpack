@@ -95,6 +95,11 @@ hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "205ab6a8e776226ba839f3c03a80743dc7e963f0b91477c831e98e9b806f91ab"
+metafile = true
+
+[[files]]
 file = "mods/diggus-maximus.pw.toml"
 hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
 metafile = true
@@ -145,6 +150,11 @@ hash = "b7dd0d855dbf08d4fdd1f73a20ba0eb2ab7d4c9cf4939055fe9ea2587c7b4aad"
 metafile = true
 
 [[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "0b554fec8eda596e16bc113e202f057a1faf068e8fe06f6e8b9ff0770624f84f"
+metafile = true
+
+[[files]]
 file = "mods/fastmove.pw.toml"
 hash = "737a8dc5119254e7ddcd20c1f6e6531860ea77c4cea8b7ecb2abae28108f967d"
 metafile = true
@@ -162,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
 
 [[files]]
