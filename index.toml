@@ -175,11 +175,6 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
-metafile = true
-
-[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "23dc59b0fa9ab5be039ed2c23a04de5a4c7b03c157312d353a0df0010dc61211"
 metafile = true
