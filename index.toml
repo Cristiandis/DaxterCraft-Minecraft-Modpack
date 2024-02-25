@@ -80,6 +80,11 @@ hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
+file = "mods/create-mob-eggs.pw.toml"
+hash = "4da59fac8f3201df40e056167eb5020a8c75d6da3ed866bb2882738042f874da"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/mini-tardis.pw.toml"
+hash = "2735c726f5c71f54a799dc63b8be461bc8dad32888d7de6c91d7d8ebd7692dd9"
 metafile = true
 
 [[files]]
