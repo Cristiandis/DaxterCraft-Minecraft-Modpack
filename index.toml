@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft-compat.pw.toml"
-hash = "dc5b76a8a9201cc0e84de2f13e6fbb211cbb8110af4b9ebec1faf80301939370"
+hash = "35adb36d2e473f449e98890dbd20206af1a41a1509df63bfb0d7e063e8952fc7"
 metafile = true
 
 [[files]]
