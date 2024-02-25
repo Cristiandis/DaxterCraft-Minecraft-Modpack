@@ -330,6 +330,16 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft-compat.pw.toml"
+hash = "dc5b76a8a9201cc0e84de2f13e6fbb211cbb8110af4b9ebec1faf80301939370"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "d82cd04369aadb3ac12aa269c32cb4085bf08716f7f1bda0698beae8e4304187"
+metafile = true
+
+[[files]]
 file = "mods/way2wayfabric.pw.toml"
 hash = "f0922166ea1c33a110bf80317a49df2e8a7e1746fe58979956a257652c886ff8"
 metafile = true
