@@ -310,11 +310,6 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
-file = "mods/tardim.pw.toml"
-hash = "ddf586da1bbbb8515aa3d4403cfaa76357dfeb7423427438d3cf4650bb6314d9"
-metafile = true
-
-[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
 metafile = true
