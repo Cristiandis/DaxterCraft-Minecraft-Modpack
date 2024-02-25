@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-mob-eggs.pw.toml"
-hash = "4da59fac8f3201df40e056167eb5020a8c75d6da3ed866bb2882738042f874da"
+hash = "831550b37ad7cdc56886686835d583168312c09767b96c39f6ad663d8f15f815"
 metafile = true
 
 [[files]]

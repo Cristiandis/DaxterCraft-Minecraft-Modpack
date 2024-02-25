@@ -3,11 +3,7 @@ filename = "createmobeggs-1.0.0+fabric-1.20.1-11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2221c513640e1fc4ce678e9e61598f7e0eb13a3"
-mode = "metadata:curseforge"
+url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/createmobeggs-1.0.0+fabric-1.20.1-11.jar"
+hash-format = "sha256"
+hash = "b895961a9935f472a6c49ec8985cdb2d944d857894bbcffe7aa1494338cc5010"
 
-[update]
-[update.curseforge]
-file-id = 4909408
-project-id = 944097
