@@ -1,0 +1,13 @@
+name = "TARDIM: In Control"
+filename = "TARDIM-IC-fabric-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xsv4H3pa/versions/bmGAU6az/TARDIM-IC-fabric-1.20.1-1.2.jar"
+hash-format = "sha1"
+hash = "48e1735ef27ea5bb03fb68b65d6bae62d68c451c"
+
+[update]
+[update.modrinth]
+mod-id = "xsv4H3pa"
+version = "bmGAU6az"
