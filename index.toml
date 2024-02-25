@@ -230,11 +230,6 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
-file = "mods/mini-tardis.pw.toml"
-hash = "2735c726f5c71f54a799dc63b8be461bc8dad32888d7de6c91d7d8ebd7692dd9"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
 metafile = true
