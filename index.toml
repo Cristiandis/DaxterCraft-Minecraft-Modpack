@@ -60,11 +60,6 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "7947b685261f82a074e1f8794650b1bcd066e79a2624c42147a6d15478df6aea"
-metafile = true
-
-[[files]]
 file = "mods/create-broken-bad-fabric.pw.toml"
 hash = "108b39ff08a1e56f78ed14817241ad6680c810dc6ca70550dbf53b4c5ce2d56d"
 metafile = true
