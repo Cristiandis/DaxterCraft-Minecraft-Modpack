@@ -1,8 +1,0 @@
-name = "EssentialCosmeticsUnlocker"
-filename = "ecu-1.3.0.jar"
-side = "client"
-
-[download]
-url = "https://github.com/dxxxxy/EssentialCosmeticsUnlocker/releases/download/1.3.0/ecu-1.3.0.jar"
-hash-format = "sha256"
-hash = "2dce90d7cdb9ad8d4b31caab2ae7b324c444bb414225d3ddf1986de0f06f444b"

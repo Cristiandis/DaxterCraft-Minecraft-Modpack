@@ -60,6 +60,11 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "7947b685261f82a074e1f8794650b1bcd066e79a2624c42147a6d15478df6aea"
+metafile = true
+
+[[files]]
 file = "mods/create-broken-bad-fabric.pw.toml"
 hash = "108b39ff08a1e56f78ed14817241ad6680c810dc6ca70550dbf53b4c5ce2d56d"
 metafile = true
@@ -120,18 +125,8 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/ecu.pw.toml"
-hash = "b054b7c4e3e1fdeb97ee30a34d64b8abc6f6709b40d86f96915f033782dbaf52"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "e52807e49964aaf1b78dff3db82c36e214dd3ac726339447a0612c35abaeeb72"
 metafile = true
 
 [[files]]

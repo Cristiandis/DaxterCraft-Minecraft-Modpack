@@ -1,9 +1,0 @@
-name = "ESSENTIAL Mod"
-filename = "Essential.fabric_1.20.1.jar"
-side = "client"
-
-[download]
-url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/Essential.fabric_1.20.1.jar"
-hash-format = "sha256"
-hash = "c99ecec5adc336207f84686e478a62c4a66fda82c813dd32d893556afbb947a2"
-
