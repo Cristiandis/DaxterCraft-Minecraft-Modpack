@@ -120,8 +120,18 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/ecu.pw.toml"
+hash = "b054b7c4e3e1fdeb97ee30a34d64b8abc6f6709b40d86f96915f033782dbaf52"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "884b5fc80651f1404e367eac0b5433bc7564dae23461aee931a80b751c034ffe"
 metafile = true
 
 [[files]]
