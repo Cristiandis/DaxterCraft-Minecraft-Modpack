@@ -160,11 +160,6 @@ hash = "b7dd0d855dbf08d4fdd1f73a20ba0eb2ab7d4c9cf4939055fe9ea2587c7b4aad"
 metafile = true
 
 [[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "0b554fec8eda596e16bc113e202f057a1faf068e8fe06f6e8b9ff0770624f84f"
-metafile = true
-
-[[files]]
 file = "mods/fastmove.pw.toml"
 hash = "737a8dc5119254e7ddcd20c1f6e6531860ea77c4cea8b7ecb2abae28108f967d"
 metafile = true
