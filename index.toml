@@ -5,6 +5,11 @@ file = "README.md"
 hash = "6ac4cd38c30fa358b08bc6858c949657280bf83ddb977fa2380e9292711b067d"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/betterteamchat.pw.toml"
 hash = "d6fc713319c17390b104f49029283a30ce91806c99cb809490d7e4cda2432ca3"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "43fe767a08365fa6c049c8e35323f6fd1a0aa4602725126e460ae6fd514888be"
 metafile = true
 
 [[files]]
@@ -345,13 +355,13 @@ hash = "d82cd04369aadb3ac12aa269c32cb4085bf08716f7f1bda0698beae8e4304187"
 metafile = true
 
 [[files]]
-file = "mods/way2wayfabric.pw.toml"
-hash = "f0922166ea1c33a110bf80317a49df2e8a7e1746fe58979956a257652c886ff8"
+file = "mods/waystones.pw.toml"
+hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
 metafile = true
 
 [[files]]
-file = "mods/waystones.pw.toml"
-hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+file = "mods/xaeroplus.pw.toml"
+hash = "e9088f1d36a5f0a88cf1adcc713be5f862945052d862fca6423e1a743d9b69f1"
 metafile = true
 
 [[files]]

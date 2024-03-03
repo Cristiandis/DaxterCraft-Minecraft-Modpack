@@ -1,0 +1,17 @@
+name = "XaeroPlus"
+filename = "XaeroPlus-Fabric-1.20.1-84-WM1.37.8-MM23.9.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/3GpWrwkP/XaeroPlus-Fabric-1.20.1-84-WM1.37.8-MM23.9.7.jar"
+hash-format = "sha1"
+hash = "84e812c48a30368936cc655ccb5f7575ca80d956"
+
+[update]
+[update.modrinth]
+mod-id = "EnPUzSTg"
+version = "3GpWrwkP"
+
+[option]
+optional = true
+description = "This mod improves performance of xaero's minimap and adds more features like waystones integration and waypoint beacon"
