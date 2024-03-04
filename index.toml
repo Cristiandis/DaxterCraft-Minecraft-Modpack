@@ -295,6 +295,11 @@ hash = "11aa8da6a60bd5f614f9208ad4f30a381fa4fc406ec57a51bb370811f73fe4fd"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "50f094d2065efa8d1d751b89a3a7147d7835a028ad193e9836ab0e9d3ff83655"
+metafile = true
+
+[[files]]
 file = "mods/quarry-reborn.pw.toml"
 hash = "20521e393f63698e5606091f61e936cb83b73e69b03f5f55a4714aafe43fbd0e"
 metafile = true
@@ -332,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/silly_songs_extended.pw.toml"
 hash = "d00a50ddef57cc86c920de1211ba95052167a2c92c353ca218317e7bc21917a3"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "579bf4dbc7e18632c66b74a220a49ca7714b084d6f0a2b9100bf0530af278288"
 metafile = true
 
 [[files]]
