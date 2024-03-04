@@ -10,6 +10,11 @@ hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
 
 [[files]]
+file = "mods/anticheat.pw.toml"
+hash = "b9de10ef0becbdf34a576e5e9b629144e2d1585d29e797a8402e6bd6b26e9e9a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
@@ -307,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-tweaks.pw.toml"
+hash = "4962519c5e3bcab8a26e7a33e9a3a063452d26392ecc21dfc0dc23c51f4b8de4"
 metafile = true
 
 [[files]]
