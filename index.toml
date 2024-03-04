@@ -340,6 +340,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/star-wars-planets-ad-astra.pw.toml"
+hash = "d08b5f940f8902e09127408840060a872f74fc585049fd7f9f3a51fb29c94022"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
 metafile = true
