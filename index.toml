@@ -325,6 +325,11 @@ hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]
+file = "mods/rings-of-ascension.pw.toml"
+hash = "0475d0ddd5d38ccccc1991c495efbde47936e6b81a025080cb32cc74ca09c1c5"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "4fb4a37363e3df0433ad359675fcaede7eb343024cb47b8b02ebde9254a68236"
 metafile = true
