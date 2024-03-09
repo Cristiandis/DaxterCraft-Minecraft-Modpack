@@ -14,4 +14,4 @@ version = "P8R7yx6t"
 
 [option]
 optional = true
-description = "This mod enables the use of shaders (do not attempt to install optifine it will not work)"
+description = "This mod allows the use of shaders with sodium, install this alongside the flywheel compat to get shader support"
