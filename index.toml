@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -347,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
 metafile = true
 
 [[files]]
